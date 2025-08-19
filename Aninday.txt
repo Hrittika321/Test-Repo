@@ -4,6 +4,4 @@ Cretae your separate brach.
 Make changes.
 CREATE PROBLEMS...
 
-Text changes by me--Bhaskar
-
-latest changes by - Aninday
+Text changes by me--Aninday
