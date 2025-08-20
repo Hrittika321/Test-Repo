@@ -1,0 +1,4 @@
+This is the first text file.The changes on the other text file is dependent on this.
+This is the changes from the dependent file.
+At fist I created a new branch.
+Then i cloned the code of the previous branch using git clone command.
