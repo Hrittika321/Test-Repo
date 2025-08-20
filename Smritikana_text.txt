@@ -1,0 +1,4 @@
+This is a new added file to practice branching and getting pull request for different tickets.
+
+
+I have changed this file and changes made for pushing it again from another branch named smritikana feature second.
