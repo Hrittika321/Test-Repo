@@ -1,6 +1,0 @@
-This is a new test file.
-I have made my changes.
-CREATE PROBLEMS...
-Solve problems.
-
-Text changes by me--Suman
