@@ -2,3 +2,5 @@ This is the first text file.The changes on the other text file is dependent on t
 This is the changes from the dependent file.
 At fist I created a new branch.
 Then i cloned the code of the previous branch using git clone command.
+That process was not right.
+In the second approach i used git pull command to fetch the files fron trial branch
