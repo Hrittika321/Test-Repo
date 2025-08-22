@@ -6,3 +6,6 @@ That process was not right.
 In the second approach i used git pull command to fetch the files fron trial branch
 There is a small change in dependent branch
 To apply rebase concept
+
+Now the rebase concept is applied.
+So there is another change for further understanding
